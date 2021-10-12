@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <html>
+        
+        <div>
+            <a href= "a">Home</a>
+        <a href= "a">Projects</a>
+       <a href= "a">Services </a>
+        <a href= "a">About</a>
+        <a href= "a">Blog</a>
+       <a href= "a">Contact</a>
+
+ <nav>
+           <hr>
+           <h1>Hi as Caroline Tycoon</h1>
+           <img src="https://images.app.goo.gl/79y3TszrENNvE2sN8" alt="description" width="200" height="200">
+        <p> Am a student at Zetech University pursuing a Diploma in Computer Science</p>
+    <hr>
+<!--footer containing social media links--> </ing>
+<footer>
+       <ul>
+             <li><a hrefhttps: >"//images.app.goo.gl/79y3TszrENNvE2sN8"</a></li>
+                <li><aTycoon-fc/README.m</li>
+                
+       </ul>
+       <hr> 
+       <p> copyright &copy;2021 Caroline Tycoon.All rights reserved.</p>
+       <p>Caroline&reg;</p>
+
+</footer>
+       </div>
+
+       <!--Hero Section-->
+       <div> 
+
+       </div> </html>
+</body>
+</html>
